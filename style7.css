@@ -1,0 +1,195 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+.hammasi{
+    background-color: #eee9e5;
+}
+.navigation {
+  width: 100%;
+  height: 170px;
+
+}
+.container {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  justify-content: space-between;
+}
+.nav_collection {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.col_item {
+  margin: 0px 30px;
+}
+.link {
+  text-decoration: none;
+  color: #363853;
+}
+.nav_btn {
+  padding: 15px 28px;
+  border-radius: 5px;
+  background: #ff7a50;
+  box-shadow: 0px 22px 40px #ff683830;
+  border: none;
+  color: #fff;
+}
+.ikkinchiclass {
+  color: #ff7a50;
+}
+.imeg_text{
+    width: 100%;
+    height: 600px;
+    background-color: ;
+    display: flex;
+    margin-top: 50px;
+}
+.text{
+    width: 50%;
+    height: 600px;
+    background-color: ;
+}
+.imeg{
+    width: 50%;
+    height: 600px;
+}
+.imeg>img{
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+}
+.text>img{
+    padding-top: 130px;
+    padding-left: 130px;
+
+}
+.weprodiv{
+position: absolute;
+width: 513px;
+height: 66px;
+left: 136px;
+top: 504px;
+font-family: "Rubik", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+text-transform: capitalize;
+color: #363853;
+}
+.button{
+background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 5px;
+width: 163px;
+height: 50.41px;
+margin-top: 100px;
+margin-left: 135px;
+border: none;
+}
+.button>b{
+font-family: "Rubik", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+.download{
+font-family: "Rubik", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-decoration-line: underline;
+color: #363853;
+margin-left: 15px;
+}
+.popular{
+    margin-top: 100px;
+    margin-left: 520px;
+}
+.nav_button1{
+width: 210px;
+height: 70px;
+background: #FF7A50;
+box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+border-radius: 8px;
+border: none;
+}
+.nav_button{
+    width: 210px;
+    height: 70px;
+    background: #FFFFFF;
+border-radius: 8px;
+border: none;
+}
+.buttons{
+    display: flex;
+    list-style-type: none;
+    margin-top: 55px;
+    justify-content: space-between;
+    margin-left: 135px;
+    margin-right: 135px;
+}
+.nav_button1>b{
+font-family: "Rubik" sans-serif ;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.burger{
+    width: 208px;
+height: 279px;
+border-radius: 12px;
+background-color: white;
+}
+.burgers{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 135px;
+    margin-right: 135px;
+    list-style-type: none;
+    margin-top: 40px;   
+}
+.img_burger{
+    
+    text-align: center;
+}
+.cta{
+    margin-top: 15px;
+    text-align: center;
+}
+.narx{
+    margin-top: 10px;
+}
+.taom{
+    margin-top: 12px;
+}
+.star{
+    margin-top: 12px;
+}
+.next{
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.group{
+    margin-right: 25px;
+}
+.group1{
+    margin-left: 25px;
+}
